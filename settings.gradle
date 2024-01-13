@@ -1,0 +1,3 @@
+rootProject.name = "I²C Demo"
+include ':app'
+include ':I2C'
